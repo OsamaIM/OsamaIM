@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:ec4899&height=200&section=header&text=Osama%20Ibn%20Mahfuz&fontSize=50&fontAlignY=38&desc=AI%20Researcher%20%7C%20Deep%20Learning%20%7C%20Swarm%20Intelligence&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:ec4899&height=200&section=header&text=Osama%20Ibn%20Mahfuz&fontSize=50&fontAlignY=38&desc=AI%20Engineering%20Student%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision%20%7C%20Swarm%20Intelligence&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -9,7 +9,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/BASE-CHINA_%7C_BANGLADESH-22d3ee?style=for-the-badge&labelColor=111111" alt="Location" />
   <img src="https://img.shields.io/badge/EDUCATION-SUES_ENGINEERING-ec4899?style=for-the-badge&labelColor=111111" alt="Education" />
-  <img src="https://img.shields.io/badge/FOUNDER-ORBISCHOLAR-6366f1?style=for-the-badge&labelColor=111111" alt="Founder" />
+  <img src="https://img.shields.io/badge/COFOUNDER&CEO-ORBISCHOLAR-6366f1?style=for-the-badge&labelColor=111111" alt="CoFounder&CEO" />
+  <img src="https://img.shields.io/badge/COFOUNDER-ORBISMEC-6366f1?style=for-the-badge&labelColor=111111" alt="CoFounder" />
 </p>
 
 <p align="center">
