@@ -13,9 +13,26 @@
   <img src="https://img.shields.io/badge/COFOUNDER-ORBISMEC-6366f1?style=for-the-badge&labelColor=111111" alt="CoFounder" />
 </p>
 
+<br/>
+
+<h3>ABOUT ME:</h3>
+
+<h2>An AI Engineering Student & Entrepreneur from Bangladesh.</h2>
+
+<p>Adept at crafting intelligent, vision-driven, and swarm-based solutions, with a strong foundation in deep learning pipelines and local LLMs.</p>
+
+<p>- 🎓 B.Sc. Artificial Intelligence Student at <b>Shanghai University of Engineering Science</b></p>
+<p>- 💼 CEO & Co-founder at <b>OrbiScholar</b> | Co-Founder of <b>OrbisMec</b></p>
+<p>- 📫 Reach out to me at the  links given down below👇:</p>
+
+<br/>
+
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/View-Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/osama-ibn-mahfuz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/share/1FWmZ7F68e/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/osama__im" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://osama-portfolio-two.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Website"/></a>
+  <a href="mailto:osamaibnmahfuz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact_Me-ec4899?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
@@ -48,25 +65,16 @@
 
 <br/>
 
-## 🚀 Featured Engineering Systems
+## 📊 GitHub Analytics
 
-| 🧠 AI Systems | 👁️ Vision & RAG |
-| :--- | :--- |
-| 🐝 **[HiveMind Swarm AI](https://github.com/OsamaIM/HiveMind-Swarm)**<br/>A real-time physics simulation bridging classical Boids flocking algorithms with a localized neural network (Phi-3) Overmind. | 🎯 **[Edge Vision Analytics](link_here)**<br/>A multi-threaded computer vision app combining high-speed object detection (YOLOv8) with semantic scene understanding (Moondream2). |
-| 🕵️ **[Offline RAG Assistant](link_here)**<br/>A privacy-first document retrieval pipeline utilizing ChromaDB and lightweight embedding models for offline technical paper analysis. | |
-
-<br/>
-
-## 🔬 Applied Research
-
-| Domain | Focus & Methodology |
-| :--- | :--- |
-| 🏥 **Brain Tumor MRI Analysis** | Deep learning pipeline leveraging CNNs for automated tumor detection. Evaluated simple versus complex architectures on Kaggle MRI datasets to democratize diagnostic efficiency. |
-| 🏃 **Sports Analytics** *(Current Focus)* | Optimizing referee positioning using bio-inspired swarm intelligence and PSO (Particle Swarm Optimization) for dynamic spatial routing. |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OsamaIM&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&icon_color=22d3ee&text_color=ffffff" alt="Osama's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaIM&hide_border=true&background=0a0a0a&ring=22d3ee&fire=22d3ee&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22d3ee&sideLabels=22d3ee&dates=cccccc" alt="Osama's GitHub Streak" width="48%" />
+</div>
 
 <br/>
 
 ---
 <div align="center">
-  <i>Bringing classical optimization and modern neural networks to the edge.</i>
+  <i>"I also have a local AI assistant: OIM 🤖 — <a href="https://osama-portfolio-two.vercel.app">Come chat with it on my portfolio!</a>"</i>
 </div>
