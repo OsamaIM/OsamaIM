@@ -17,7 +17,7 @@
 
 <h3>ABOUT ME:</h3>
 
-<h2>An AI Engineering Student & Entrepreneur from Bangladesh.</h2>
+<h2>An AI Engineering Student & Entrepreneur.</h2>
 
 <p>Adept at crafting intelligent, vision-driven, and swarm-based solutions, with a strong foundation in deep learning pipelines and local LLMs.</p>
 
